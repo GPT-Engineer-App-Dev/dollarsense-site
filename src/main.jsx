@@ -9,6 +9,10 @@ const colors = {
     800: "#153e75",
     700: "#2a69ac",
   },
+  ft: {
+    background: "#FFF1E5",
+    header: "#1A1A1A",
+  },
 };
 
 const fonts = {
